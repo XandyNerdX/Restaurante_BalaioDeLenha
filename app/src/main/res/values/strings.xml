@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Restaurante_BalaiodeLenha</string>
+    <string name="ConsumoT">Consumo total R$: </string>
+    <string name="Couvert">Couvert artistico </string>
+    <string name="Dividir">Dividir conta por: </string>
+    <string name="ButtonCalcular">Calcular Conta final</string>
+    <string name="TaxaServiço">Taxa de Serviço(10%)  </string>
+    <string name="ContaT">Conta Total  </string>
+    <string name="ValorPorPessoa"> Valor por pessoa </string>
+    <string name="Money">Ex: R$120.00 </string>
+</resources>
